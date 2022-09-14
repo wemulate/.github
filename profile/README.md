@@ -1,7 +1,7 @@
 ## Thanks for visiting WEmulate 👋
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  
-WEmulate is a simple and modern WAN emulator, developed to fullfill the needs of students and network engineers.
+WEmulate is a simple and modern WAN emulator, developed to fulfill the needs of students and network engineers.
 
 ### Documentation
 You can find the whole documentation of WEmulate under [https://wemulate.github.io/wemulate](https://wemulate.github.io/wemulate).
