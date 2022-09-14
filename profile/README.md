@@ -6,6 +6,10 @@ WEmulate is a simple and modern WAN emulator, developed to fullfill the needs of
 ### Documentation
 You can find the whole documentation of WEmulate under [https://wemulate.github.io/wemulate](https://wemulate.github.io/wemulate).
 
+### Usage
+![WEmulate usage cli](/img/animation-wemulate-cli.gif)
+![WEmulate usage frontend](/img/animation-wemulate-frontend.gif)
+
 ### Repositories
 WEmulate has three repositories each of these repositories is one module and is described below.
 | Repository | Description |
